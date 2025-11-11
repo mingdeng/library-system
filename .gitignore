@@ -1,0 +1,20 @@
+# Java
+backend/target/
+*.class
+*.log
+
+# Node / Vue
+admin-frontend/node_modules/
+reader-frontend/node_modules/
+*.local
+dist/
+
+# IDE
+.cursor
+.idea/
+.vscode/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
